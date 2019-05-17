@@ -1,2 +1,3 @@
 # resources
-Like a server for all my crap
+Like a server
+Running for the very first time
